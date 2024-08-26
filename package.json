@@ -3,7 +3,7 @@
   "displayName": "AstroTheme",
   "description": "Elevate your coding experience with the Astrodevs VSCode theme, meticulously crafted for developers who thrive in a stellar environment. Inspired by the cosmos and designed with the needs of the Astrodevs team in mind, this theme combines deep, soothing colors with vibrant accents to enhance readability and reduce eye strain during long coding sessions. Whether you're working on Flutter apps, web development, or any other projects, the Astrodevs theme will keep you focused and inspired. Blast off into your next coding adventure with a theme that's out of this world!",
   "icon": "images/logo.png",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "publisher": "Astrodevs",
   "engines": {
     "vscode": "^1.92.0"
