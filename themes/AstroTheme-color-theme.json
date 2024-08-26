@@ -94,7 +94,7 @@
 		"list.inactiveSelectionBackground": "#0000008b",
 		"list.inactiveSelectionForeground": "#658bff",
 		"list.warningForeground": "#b8bb0c",
-		"list.errorForeground":"#f88070",
+		"list.errorForeground": "#f88070",
 		"listFilterWidget.background": "#2A2D3530",
 		"listFilterWidget.noMatchesOutline": "#2A2D3530",
 		"listFilterWidget.outline": "#2A2D3530",
@@ -152,7 +152,6 @@
 		"sideBar.background": "#1B1D22c0",
 		"sideBar.border": "#1B1D2250",
 		"sideBar.foreground": "#F6F6F6",
-		
 		"sideBarSectionHeader.background": "#1B1D22c0",
 		"sideBarSectionHeader.border": "#2A2D3560",
 		"sideBarSectionHeader.foreground": "#F6F6F6",
@@ -340,17 +339,29 @@
 		},
 		{
 			"scope": [
+				"comment.block.documentation.dart",
+				"comment.block.documentation",
+			],
+			"settings": {
+				"fontStyle": "italic",
+				"foreground": "#00dfe3"
+			}
+		},
+		{
+			"scope": [
 				"comment.line.scss",
 				"comment.line.double-slash.js",
 				"punctuation.definition.comment.scss",
 				"punctuation.definition.comment.js",
 				"punctuation.definition.comment.html",
 				"comment.line.double-slash.dart",
-				"comment.block.documentation.dart",
+				"comment.block.js",
+				"comment.block.js",
+				"comment.block",
 				"comment.block.html"
 			],
 			"settings": {
-				"foreground": "#6b7affce"
+				"foreground": "#78cbffce"
 			}
 		},
 		{
@@ -644,7 +655,6 @@
 				"fontStyle": "underline",
 				"foreground": "#94c4ff"
 			}
-			
 		},
 		{
 			"scope": [
