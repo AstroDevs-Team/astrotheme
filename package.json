@@ -11,6 +11,9 @@
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AstroDevs-Team/astrotheme"},
   "keywords": [
     "Astrodevs",
     "VSCode theme",
