@@ -10,6 +10,11 @@ If you enjoy using our dark theme, we’d love your support!
 * **[Buy Me a Coffee](https://www.buymeacoffee.com/astrodevs)**  
   If you'd like to support our work and keep us fueled with caffeine, consider buying us a coffee! <a href="https://www.buymeacoffee.com/astrodevs" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
+## ScreenShot
+
+![AstroTheme Dark Mode Preview](image/screenshot.png)
+
+
 ## Working with Markdown
 
 You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts to help you get started:
