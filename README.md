@@ -12,7 +12,7 @@ If you enjoy using our dark theme, we’d love your support!
 
 ## ScreenShot
 
-![AstroTheme Dark Mode Preview](image/screenshot.png)
+![AstroTheme Dark Mode Preview](images/screenshot.png)
 
 
 ## Working with Markdown
