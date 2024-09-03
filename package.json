@@ -39,5 +39,9 @@
         "path": "./themes/AstroTheme-color-theme.json"
       }
     ]
+  },
+  "dependencies": {
+    "generator-code": "^1.11.1",
+    "yo": "^5.0.0"
   }
 }
